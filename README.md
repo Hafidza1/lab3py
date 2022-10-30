@@ -59,3 +59,41 @@
 ### Buatlah kode program menggunakan string formatting untuk menghasilkan output seperti gambar dibawah ini
 
 ![gambar](file 7.png)
+
+ #### string =""
+ #### x = int(input("Masukkan angka :"))
+ #### a = x
+ #### while a >= 0:
+    b = a
+    while b > 0:
+        #### string = string + "   "
+        b = b - 1
+    l = 1
+    while l < (x - (a-1)):
+        string = string + " * "
+        l = l + 1
+    r = 1
+    while r < l -1:
+        string = string + " * "
+        r = r + 1
+    string = string + "\n\n"
+    a = a -1
+ #### a = 1
+ #### while a <= x:
+    b = a + 1
+    while b > 1:
+        string = string + "   "
+        b = b -1
+    l = 0
+    while l < (x - a):
+        string = string + " * "
+        l = l + 1
+    r = l
+    while r > 1:
+        string = string + " * "
+        r = r - 1
+    string = string + "\n\n"
+    a = a + 1
+print(string)
+
+#### -agar menampilkan output yang sama dengan contoh di atas, yaitu dengan menjalankan hasil daari statement yang telah dibuat lalu kita inputkan numeric 5
