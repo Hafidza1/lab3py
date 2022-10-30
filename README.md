@@ -97,3 +97,17 @@
 print(string)
 
 #### -agar menampilkan output yang sama dengan contoh di atas, yaitu dengan menjalankan hasil daari statement yang telah dibuat lalu kita inputkan numeric 5
+
+![gambar](file 8.png)
+
+# Praktikum 3
+
+![gambar](file 9.png)
+
+#### -Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
+
+#### -Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float 
+
+
+
+
