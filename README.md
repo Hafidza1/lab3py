@@ -8,29 +8,29 @@
 
 ![gambar1](gambar/file 1.png)
 
-![gambar1](file/file 1(1).png)
+![gambar1](gambar/file 1(1).png)
 
 ### Penggunaan Separator
 
 #### -penggunaan separator pada python berfungsi sebagai pemisah dari setiap variabel yang telah di beri nilai
 
-![gambar1](file/file 2.png)
+![gambar1](gambar/file 2.png)
 
-![gambar1](file/file 2(1).png)
+![gambar1](gambar/file 2(1).png)
 
 ### String Format
 
 #### -String Formatting memungkingkan kita untuk memberikan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau striing concatenation
 
-![gambar1](file/file 3.png)
+![gambar1](gambar/file 3.png)
 
-![gambar1](file/file 3(1).png)
+![gambar1](gambar/file 3(1).png)
 
 #### -ini contoh string concatenation
 
-![gambar1](file/file 4.png)
+![gambar1](gambar/file 4.png)
 
-![gambar1](file/file 4(1).png)
+![gambar1](gambar/file 4(1).png)
 
 ## Latihan 2
 
@@ -42,7 +42,7 @@
 
 #### -Lalu gabungkan variabel a dan bdengan  Formatting String
 
-![gambar1](file/file 5.png)
+![gambar1](gambar/file 5.png)
 
 ### Konversi nilai Variabel 
 
@@ -50,15 +50,15 @@
 
 ### -Setelah itu menjumlahkan dan membagi dengan ekspresikan dalam bentuk Formatting String
 
-![gambar1](file/file 6.png)
+![gambar1](gambar/file 6.png)
 
-![gambar1](file/file 6(1).png)
+![gambar1](gambar/file 6(1).png)
 
 ## Latihan 3
 
 ### Buatlah kode program menggunakan string formatting untuk menghasilkan output seperti gambar dibawah ini
 
-![gambar1](file/file 7.png)
+![gambar1](gambar/file 7.png)
 
  #### string =""
  #### x = int(input("Masukkan angka :"))
@@ -98,11 +98,11 @@ print(string)
 
 #### -agar menampilkan output yang sama dengan contoh di atas, yaitu dengan menjalankan hasil daari statement yang telah dibuat lalu kita inputkan numeric 5
 
-![gambar1](file/file 8.png)
+![gambar1](gambar/file 8.png)
 
 # Praktikum 3
 
-![gambar1](file/file 9.png)
+![gambar1](gambar/file 9.png)
 
 #### -Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
 
@@ -114,4 +114,4 @@ print(string)
 
 #### -Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita pakai fungsi format(),dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
 
-![gambar1](file/file 10.png)
+![gambar1](gambar/file 10.png)
